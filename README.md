@@ -7,7 +7,15 @@ An Android app to simulate focus monitoring and BLE (Bluetooth Low Energy) conne
 - **Focus Score Monitoring**: Start/stop simulated focus score updates every 5 seconds.
 - **BLE Simulation**: Mock BLE scanning, connecting, and disconnecting states.
 
-  ## Screenshots
+## Technologies
+
+- Kotlin, Jetpack Compose, StateFlow, ViewModel, Coroutines
+
+## Unit Testing
+
+- Tests focus score updates and monitoring toggles.
+
+## Screenshots
 
 ### BLE Idle State UI
 ![BLE Idle State UI](screenshots/idle.png)
@@ -17,11 +25,3 @@ An Android app to simulate focus monitoring and BLE (Bluetooth Low Energy) conne
 
 ### BLE Connected State UI
 ![BLE Connected State UI](screenshots/connected.png)
-
-## Technologies
-
-- Kotlin, Jetpack Compose, StateFlow, ViewModel, Coroutines
-
-## Unit Testing
-
-- Tests focus score updates and monitoring toggles.
