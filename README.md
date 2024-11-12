@@ -13,8 +13,4 @@ An Android app to simulate focus monitoring and BLE (Bluetooth Low Energy) conne
 
 ## Unit Testing
 
-- Tests focus score updates, BLE state transitions, and monitoring toggles.
-- Run tests with:
-
-  ```bash
-  ./gradlew testDebugUnitTest
+- Tests focus score updates and monitoring toggles.
