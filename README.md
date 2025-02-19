@@ -15,13 +15,4 @@ An Android app to simulate focus monitoring and BLE (Bluetooth Low Energy) conne
 
 - Tests focus score updates and monitoring toggles.
 
-## Screenshots
 
-### BLE Idle State UI
-![BLE Idle State UI](screenshots/idle.png)
-
-### BLE Scanning State UI
-![BLE Scanning State UI](screenshots/scanning.png)
-
-### BLE Connected State UI
-![BLE Connected State UI](screenshots/connected.png)
